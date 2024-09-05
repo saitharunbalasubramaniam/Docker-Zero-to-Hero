@@ -256,9 +256,9 @@ This message shows that your installation appears to be working correctly.
 
 ```
 git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
-cd  examples
+cd  examples/first-docker-file
 ```
-cd examples/first-docker-file
+
 
 ### Login to Docker [Create an account with https://hub.docker.com/]
 
